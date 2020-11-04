@@ -1,0 +1,7 @@
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\bin\Debug\LR1OAIP.exe.config
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\bin\Debug\LR1OAIP.exe
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\bin\Debug\LR1OAIP.pdb
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\obj\Debug\LR1OAIP.csprojAssemblyReference.cache
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\obj\Debug\LR1OAIP.csproj.CoreCompileInputs.cache
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\obj\Debug\LR1OAIP.exe
+C:\Users\niciv\source\repos\LR1OAIP\LR1OAIP\obj\Debug\LR1OAIP.pdb
